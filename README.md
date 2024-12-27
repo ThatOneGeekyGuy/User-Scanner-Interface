@@ -6,4 +6,4 @@ A simple Python GUI that shows all users on a Windows PC.
 
 # How Run
 Just download and extract the zip file, locate "Scanner.exe" and double-click it to run. Please report any issues bugs or possible future improvements. Thank you😄
-### NOTE: Windows defender might flag the .exe file as coming from an uknown publisher. 
+### NOTE: Windows defender might flag the .exe file as being made by an uknown publisher. 
